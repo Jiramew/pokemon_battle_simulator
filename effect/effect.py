@@ -5,7 +5,7 @@ from effect.dual_effect import DualEffect
 from effect.default_effect import DefaultEffect
 from effect.heal_effect import HealEffect
 from effect.multi_hit_effect import MultiHitEffect
-from  effect.no_effect import NoEffect
+from effect.no_effect import NoEffect
 from effect.recoil_effect import RecoilEffect
 from effect.recoil_on_miss_effect import RecoilOnMissEffect
 from effect.stat_stage_effect import StatStageEffect
@@ -15,7 +15,11 @@ from effect.weight_dependent_effect import WeightDependentEffect
 
 
 class Effect(object):
-    def make(self, id, chance):
+    def __init__(self):
+        pass
+
+    @staticmethod
+    def make(id, chance):
         if id in [1, 35, 104]:
             return NoEffect(id)
         # if id in [254, 263]
