@@ -6,7 +6,7 @@ class DefaultEffect(object):
     def power(self, base):
         return base
 
-    def effectiveness(self, effectiveness, attacker, defender):
+    def effectiveness(self, attacker, defender, effectiveness):
         return effectiveness
 
     def hits(self):

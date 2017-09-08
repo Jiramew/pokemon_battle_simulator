@@ -8,5 +8,5 @@ class StruggleEffect(DefaultEffect):
     def recoil(self, damage, pokemon):
         return round(pokemon.maxHp / 4)
 
-    def effectiveness(self, effectiveness, attacker, defender):
+    def effectiveness(self, attacker, defender, effectiveness):
         return 1
