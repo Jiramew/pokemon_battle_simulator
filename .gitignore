@@ -1,0 +1,7 @@
+.idea/
+*.pyc
+*.log
+.pypirc
+test/
+dist/
+build/
