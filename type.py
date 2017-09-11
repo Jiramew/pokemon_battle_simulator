@@ -2,18 +2,27 @@ from main.dexLoader import DexLoader
 
 
 class Type(object):
-    def __init__(self, dex, tid):
-        self.dex = dex
-        self.all = list(self.dex.keys())
-        self.type = self.dex.get(str(tid))
+    def __init__(self, dex=None, tid=None):
+        if dex is not None:
+            self.dex = dex
+        else:
+            self.dex = DexLoader().typedex
 
-        self.id = self.type.get("id")
-        self.name = self.type.get("name")
-        self.offense = self.type.get("offense")
-        self.defense = self.type.get("defense")
+        self.all = list(self.dex.keys())
+
+        if tid is not None:
+            self.type = self.dex.get(str(tid))
+            self.id = self.type.get("id")
+            self.name = self.type.get("name")
+            self.offense = self.type.get("offense")
+            self.defense = self.type.get("defense")
 
     def __str__(self):
         return self.name
+
+    @staticmethod
+    def all():
+        return list(DexLoader().typedex.keys())
 
     def effectivenessAgainst(self, types):
         if not type(types) == list:
