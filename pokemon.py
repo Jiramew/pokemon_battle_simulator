@@ -125,7 +125,7 @@ class Pokemon(object):
             change = 6 - self.stats.get("stage").get(stat) if self.stats.get("stage").get(stat) + change > 6 else change
             change = -6 - self.stats.get("stage").get(stat) if self.stats.get("stage").get(
                 stat) + change < -6 else change
-            self.stats.get("stage")["stat"] += change
+            self.stats.get("stage")[stat] += change
         if change == 1:
             print(self.trainerAndName() + "'s" + statName + " rose")
         if change == 2:

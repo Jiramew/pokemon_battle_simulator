@@ -55,7 +55,7 @@ class Move(object):
         return self.effect.effectiveness(attacker, defender, effectiveness)
 
     def power(self, attacker=None, defender=None):
-        return self.effect.power(base=self.basePower, attacker=None, defender=None)
+        return self.effect.power(base=self.basePower)
 
     def hits(self):
         return self.effect.hits()
