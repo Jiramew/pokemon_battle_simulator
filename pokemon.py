@@ -31,6 +31,7 @@ class Pokemon(object):
         self.strategy = Strategy(self)
         self.moves = self.strategy.chooseBuild([Move(move.id) for move in self.pokemon.moves])
         self.trainer = None
+        self.score = None
 
     def __str__(self):
         return self.name
