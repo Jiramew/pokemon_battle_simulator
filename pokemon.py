@@ -72,7 +72,7 @@ class Pokemon(object):
         elif stage > 0:
             return (stage + 2) / 2
         else:
-            return 2 / (stage + 2)
+            return 2 / (abs(stage) + 2)
 
     def attack(self):
         return self.stat("attack")
