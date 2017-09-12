@@ -25,4 +25,5 @@ class RecoilEffect(DefaultEffect):
         return 1 - self.recoil(damage, attacker) / attacker.hp / 1.5
 
     def afterDamage(self, attacker, defender, damage):
-        attacker.takeDamage(self.recoil(damage), attacker)
+        attacker.takeDamage(self.recoil(damage),
+                            "{0} was hurt {1} by recoil!".format(attacker.name, self.recoil(damage)))

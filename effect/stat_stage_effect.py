@@ -55,6 +55,6 @@ class StatStageEffect(DefaultEffect):
 
     def afterDamage(self, attacker, defender, damage):
         target = self.target(attacker, defender)
-        if random.random(100) < self.chance and target.isAlive():
+        if random.random() * 100 < self.chance and target.isAlive():
             for stat, change in self.stats().items():
                 target.modifyStatStage(stat, change)

@@ -38,6 +38,6 @@ def pokemon_build(pokemonId):
 
 
 if __name__ == '__main__':
-    pokemon_battle([59, 6], [3, 9])
+    pokemon_battle([66, 200, 151, 100], [90, 365, 32, 89])
 # pokemon = {}
 # print(pokemon_lookup("arcanine"))

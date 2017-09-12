@@ -23,12 +23,14 @@ class Battle(object):
     def start(self):
         while not self.winner:
             self.nextTurn()
+            print("")
 
         loser = self.trainer1 if self.winner == self.trainer2 else self.trainer2
         print(self.winner.nameOrYou() + " defeated " + loser.nameOrYou() + "!")
         for pokemon in self.winner.team:
             print(
-                pokemon.name + ": " + str(pokemon.hp) + " HP (" + str(round(pokemon.hp / pokemon.maxHp * 100)) + "%) left.")
+                pokemon.name + ": " + str(pokemon.hp) + " HP (" + str(
+                    round(pokemon.hp / pokemon.maxHp * 100)) + "%) left.")
 
     def nextTurn(self):
         pokemon1 = self.trainer1.mainPokemon

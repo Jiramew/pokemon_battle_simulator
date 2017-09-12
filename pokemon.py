@@ -118,26 +118,26 @@ class Pokemon(object):
     def modifyStatStage(self, stat, change):
         statName = self.statName(stat)
         if self.stats.get("stage").get(stat) == 6 and change > 0:
-            print(statName + " cannot rise any higher.")
+            print(self.trainerAndName() + "'s" + statName + " cannot rise any higher.")
         if self.stats.get("stage").get(stat) == -6 and change < 0:
-            print(statName + " cannot fall any lower.")
+            print(self.trainerAndName() + "'s" + statName + " cannot fall any lower.")
         else:
             change = 6 - self.stats.get("stage").get(stat) if self.stats.get("stage").get(stat) + change > 6 else change
             change = -6 - self.stats.get("stage").get(stat) if self.stats.get("stage").get(
                 stat) + change < -6 else change
             self.stats.get("stage")["stat"] += change
         if change == 1:
-            print(statName + " rose")
+            print(self.trainerAndName() + "'s" + statName + " rose")
         if change == 2:
-            print(statName + " sharply rose")
+            print(self.trainerAndName() + "'s" + statName + " sharply rose")
         if change == 3:
-            print(statName + " drastically rose")
+            print(self.trainerAndName() + "'s" + statName + " drastically rose")
         if change == -1:
-            print(statName + " fell")
+            print(self.trainerAndName() + "'s" + statName + " fell")
         if change == -2:
-            print(statName + " harshly fell")
+            print(self.trainerAndName() + "'s" + statName + " harshly fell")
         if change == -3:
-            print(statName + " severely fell")
+            print(self.trainerAndName() + "'s" + statName + " severely fell")
 
     def typeAdvantageAgainst(self, pokemon):
         type_list = [type for type in self.types if type.effectiveAgainst(pokemon.types)]

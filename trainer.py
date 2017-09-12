@@ -33,7 +33,7 @@ class Trainer(object):
             if random.random() < 0.5:
                 return own
         else:
-            print("withdrew " + str(own) + ".")
+            print(self.nameOrYou() + " withdrew " + str(own) + ".")
             self.switchPokemon(opponent)
             return self.mainPokemon
 
@@ -60,7 +60,7 @@ class Trainer(object):
         if self.mainPokemon is not None:
             self.mainPokemon.whenSwitchedOut()
 
-        print("took out" + self.mainPokemon.name)
+        print(self.nameOrYou() + " took out " + self.mainPokemon.name)
         return self.mainPokemon
 
     def nameOrYou(self):
