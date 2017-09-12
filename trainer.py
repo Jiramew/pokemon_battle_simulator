@@ -18,15 +18,24 @@ class Trainer(object):
         self.mainPokemon = self.team[0]
 
     def maybeSwitchOut(self, own, opponent):
-        if random.random() < 0.67:
+        score = 0
+        if not len([pokemon for pokemon in self.ablePokemon() if not opponent.typeAdvantageAgainst(pokemon)]) > 0:
             return own
+        else:
+            score += 5
+
         if not opponent.typeAdvantageAgainst(own):
             return own
-        if len([pokemon for pokemon in self.ablePokemon() if not opponent.typeAdvantageAgainst(own)]) > 0:
-            return own
-        print("withdrew " + own + ".")
-        self.switchPokemon(opponent)
-        return self.mainPokemon
+        else:
+            score += 3
+
+        if not score >= 5:
+            if random.random() < 0.5:
+                return own
+        else:
+            print("withdrew " + str(own) + ".")
+            self.switchPokemon(opponent)
+            return self.mainPokemon
 
     def switchPokemon(self, opponent):
         self.mainPokemon.stats["stage"] = {
@@ -51,7 +60,7 @@ class Trainer(object):
         if self.mainPokemon is not None:
             self.mainPokemon.whenSwitchedOut()
 
-        print("took out" + self.mainPokemon)
+        print("took out" + self.mainPokemon.name)
         return self.mainPokemon
 
     def nameOrYou(self):

@@ -5,7 +5,7 @@ class WeightDependentEffect(DefaultEffect):
     def __init__(self, id, chance=None):
         super(WeightDependentEffect, self).__init__(id, chance)
 
-    def power(self, base, defender=None):
+    def power(self, base, attacker=None, defender=None):
         if defender is None:
             return 60
         else:

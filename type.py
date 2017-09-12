@@ -22,7 +22,7 @@ class Type(object):
 
     @staticmethod
     def all():
-        return list(DexLoader().typedex.keys())
+        return [Type(tid=typeid) for typeid in DexLoader().typedex.keys()]
 
     def effectivenessAgainst(self, types):
         if not type(types) == list:

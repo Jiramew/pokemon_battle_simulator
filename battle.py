@@ -16,19 +16,19 @@ class Battle(object):
         self.trainer1.firstPokemon()
         self.trainer2.firstPokemon()
         for pokemon in trainer1.team:
-            pokemon.subscribeToFaint()
+            pokemon.subscribeToFaint(self)
         for pokemon in trainer2.team:
-            pokemon.subscribeToFaint()
+            pokemon.subscribeToFaint(self)
 
     def start(self):
-        if not self.winner:
+        while not self.winner:
             self.nextTurn()
 
         loser = self.trainer1 if self.winner == self.trainer2 else self.trainer2
         print(self.winner.nameOrYou() + " defeated " + loser.nameOrYou() + "!")
         for pokemon in self.winner.team:
             print(
-                pokemon.name + ": " + pokemon.hp + " HP (" + str(round(pokemon.hp / pokemon.maxHp * 100)) + "%) left.")
+                pokemon.name + ": " + str(pokemon.hp) + " HP (" + str(round(pokemon.hp / pokemon.maxHp * 100)) + "%) left.")
 
     def nextTurn(self):
         pokemon1 = self.trainer1.mainPokemon
@@ -89,7 +89,7 @@ class Battle(object):
                 print("It dosen't affect " + defender.trainerAndName() + "...")
                 miss = True
             else:
-                if random.random() * 100 > attacker.move.accurary:
+                if random.random() * 100 > attacker.move.accuracy:
                     print(attacker.trainerAndName() + "'s attack missed")
                     miss = True
                 else:
@@ -97,7 +97,7 @@ class Battle(object):
                     hit = 0
                     miss = False
                     self.stopMultiHit = False
-                    if not ((hit == hits) or self.stopMultiHit):
+                    while not ((hit == hits) or self.stopMultiHit):
                         hit += 1
                         critical = random.random() < self.criticalChance(attacker.move.criticalRateStage())
                         rand = random.random() * (1 - 0.85 + 0.85)
@@ -108,7 +108,7 @@ class Battle(object):
                         if effectiveness < 1:
                             print("It's not very effective...")
                         damage = self.damageCalculator.calculate(attacker.move, attacker, defender, critical, rand)
-                        defender.takeDamage(damage, "{0} was hit for {1}")
+                        defender.takeDamage(damage, "{0} was hit for {1}".format(defender.name, damage))
                         attacker.move.afterDamage(attacker, defender, damage)
                 if miss:
                     attacker.move.afterMiss(attacker, defender)

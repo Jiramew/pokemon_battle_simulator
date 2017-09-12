@@ -5,7 +5,7 @@ class RecoilEffect(DefaultEffect):
     def __init__(self, id, chance=None):
         super(RecoilEffect, self).__init__(id, chance)
 
-    def recoil(self, damage, pokemon):
+    def recoil(self, damage, pokemon=None):
         if self.id == 49:
             return round(damage / 4)
         elif self.id in [199, 254, 263]:

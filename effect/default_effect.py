@@ -3,7 +3,7 @@ class DefaultEffect(object):
         self.id = id
         self.chance = chance
 
-    def power(self, base):
+    def power(self, base, attacker=None, defender=None):
         return base
 
     def effectiveness(self, attacker, defender, effectiveness):

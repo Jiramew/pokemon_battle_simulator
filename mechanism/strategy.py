@@ -1,6 +1,7 @@
 from mechanism.damage_calculator import DamageCalculator
 from type import Type
 from move import Move
+from move import struggle
 
 
 class Strategy(object):
@@ -23,13 +24,13 @@ class Strategy(object):
         chosenMoves = []
         typesCovered = []
         for move in scoredMoves:
-            if move.type.id not in typesCovered:
-                chosenMoves.append(move)
-                typesCovered.append(move.type.id)
+            if move.get("move").type.id not in typesCovered:
+                chosenMoves.append(move.get("move"))
+                typesCovered.append(move.get("move").type.id)
                 if len(typesCovered) == 4:
                     break
             if len(chosenMoves) == 0:
-                chosenMoves = [move.struggle]
+                chosenMoves = [struggle]
 
         return chosenMoves
 
@@ -47,7 +48,7 @@ class Strategy(object):
 
         stat = self.pokemon.stat(move.attackStat())
         return {"move": move,
-                "score": move.power() * typeMultiplier * stat * move.accurary * move.buildMultiplier(self.pokemon)}
+                "score": move.power() * typeMultiplier * stat * move.accuracy * move.buildMultiplier(self.pokemon)}
 
     def chooseMove(self, defender):
         damageCalculator = DamageCalculator()
@@ -57,10 +58,11 @@ class Strategy(object):
         for move in self.pokemon.moves:
             damage = damageCalculator.calculate(move, self.pokemon, defender)
             damage = defender.hp if defender.hp < damage else damage
-            damage *= move.buildMultiplier(self.pokemon, defender, damage)
+            damage *= move.battleMultiplier(self.pokemon, defender, damage)
 
             if damage > bestDamage:
                 bestMove = move
                 bestDamage = damage
 
         self.pokemon.move = bestMove
+        return bestMove

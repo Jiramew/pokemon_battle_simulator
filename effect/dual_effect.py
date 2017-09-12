@@ -7,7 +7,7 @@ class DualEffect(DefaultEffect):
         super(DualEffect, self).__init__(id, chance)
         self.effects = effects
 
-    def power(self, base):
+    def power(self, base, attacker=None, defender=None):
         return base
 
     def effectiveness(self, attacker, defender, effectiveness=None):

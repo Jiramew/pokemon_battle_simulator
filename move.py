@@ -8,23 +8,25 @@ DAMAGE_SPECIAL = 'special'
 
 
 class Move(object):
-    def __init__(self, dex, mid):
-        self.dex = dex
-        self.struggle = Move(dex, 165)
+    def __init__(self, dex=None, mid=None):
+        if dex is not None:
+            self.dex = dex
+        else:
+            self.dex = DexLoader().movedex
         self.move = self.dex.get(str(mid))
 
-        self.id = self.move.id
-        self.name = self.move.name
-        self.type = Type(self.dex, self.move.type)
-        self.basePower = self.power()
-        self.accurary = self.move.accurary if self.move.accurary > 0 else 100
-        self.priority = self.move.priority
-        self.effect = Effect.make(id=self.move.effect, chance=self.move.effect_chance)
-        self.damageClass = self.move.damage_class
+        self.id = self.move.get("id")
+        self.name = self.move.get("name")
+        self.basePower = self.move.get("power")
+        self.type = Type(DexLoader().typedex, self.move.get("type"))
+        self.effect = Effect.make(id=self.move.get("effect"), chance=self.move.get("effect_chance"))
+        self.accuracy = self.move.get("accuracy") if self.move.get("accuracy") > 0 else 100
+        self.priority = self.move.get("priority")
+        self.damageClass = self.move.get("damage_class")
 
     def __str__(self):
         return self.name + "(" + self.type.name + " - " + (
-            'X' if self.basePower == 1 else self.basePower) + " power - " + str(self.accurary) + " accuracy)"
+            'X' if self.basePower == 1 else self.basePower) + " power - " + str(self.accuracy) + " accuracy)"
 
     def banned(self):
         return (self.damageClass == DAMAGE_NONE) or (self.effect.banned()) or (self.power() < 2)
@@ -42,10 +44,11 @@ class Move(object):
 
     def battleMultiplier(self, attacker, defender, damage):
         lethal = damage >= defender.hp
-        base = self.accurary / 100
+        base = self.accuracy / 100
         if self.priority > 0 and lethal:
             base *= 5
         base *= self.effect.battleMultiplier(attacker, defender, damage, lethal)
+        return base
 
     def effectiveness(self, attacker, defender):
         effectiveness = self.type.effectivenessAgainst(defender.types)
@@ -66,6 +69,8 @@ class Move(object):
     def afterMiss(self, attacker, defender):
         self.effect.afterMiss(attacker, defender)
 
+
+struggle = Move(DexLoader().movedex, 165)
 
 if __name__ == "__main__":
     pass

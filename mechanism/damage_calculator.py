@@ -23,4 +23,4 @@ class DamageCalculator(object):
         return self.formula(40, attack, defense, rand)
 
     def formula(self, power, attack, defense, multiplier):
-        return round(0.88 * (attack / defense) * power + 2) * multiplier
+        return round((0.88 * (attack / defense) * power + 2) * multiplier)

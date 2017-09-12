@@ -5,16 +5,19 @@ from mechanism.strategy import Strategy
 
 
 class Pokemon(object):
-    def __init__(self, dex, pid):
-        self.dex = dex
-        self.pokemon = self.dex.get(pid)
+    def __init__(self, dex=None, pid=None):
+        if dex is not None:
+            self.dex = dex
+        else:
+            self.dex = DexLoader().pokedex
+        self.pokemon = self.dex.get(str(pid))
 
-        self.name = self.pokemon.name
-        self.types = [Type(DexLoader().typedex, type.id) for type in self.pokemon.types]
+        self.name = self.pokemon.get("name")
+        self.types = [Type(DexLoader().typedex, type) for type in self.pokemon.get("types")]
         self.weight = self.pokemon.get("weight") / 10
 
         self.stats = {
-            "base": 1,
+            "base": self.pokemon.get("stats"),
             "stage": {
                 "attack": 0,
                 "defense": 0,
@@ -23,24 +26,25 @@ class Pokemon(object):
                 "speed": 0
             }
         }
-        self.maxHp = 141 + 2 * self.pokemon.stats.hp
+        self.maxHp = 141 + 2 * self.pokemon.get("stats").get("hp")
         self.hp = self.maxHp
         self.conditions = []
         self.ailment = None
         self.faintObservers = []
         self.strategy = Strategy(self)
-        self.moves = self.strategy.chooseBuild([Move(move.id) for move in self.pokemon.moves])
+        self.move = None
+        self.moves = self.strategy.chooseBuild([Move(mid=move) for move in self.pokemon.get("moves")])
         self.trainer = None
-        self.score = None
+        self.score = 0
 
     def __str__(self):
         return self.name
 
     def trainerAndName(self):
-        if self.trainer is None:
+        if self.trainer.name is None:
             return "your " + self.name
         else:
-            return self.trainer.name + "'s" + self.name
+            return self.trainer.name + "'s " + self.name
 
     def stat(self, stat, options=None):
         if options is None:
