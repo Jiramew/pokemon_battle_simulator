@@ -42,7 +42,7 @@ class Pokemon(object):
 
     def trainerAndName(self):
         if self.trainer.name is None:
-            return "your " + self.name
+            return "Your " + self.name
         else:
             return self.trainer.name + "'s " + self.name
 

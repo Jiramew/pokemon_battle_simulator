@@ -65,4 +65,4 @@ class Trainer(object):
         return self.mainPokemon
 
     def nameOrYou(self):
-        return self.name if self.name else "you"
+        return self.name if self.name else "You"
