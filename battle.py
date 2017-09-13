@@ -110,7 +110,9 @@ class Battle(object):
                         if effectiveness < 1:
                             print("It's not very effective...")
                         damage = self.damageCalculator.calculate(attacker.move, attacker, defender, critical, rand)
-                        defender.takeDamage(damage, "{0} was hit for {1}".format(defender.name, damage))
+                        defender.takeDamage(damage, "{0} was hit for {1}({2}%), {3} left".
+                                            format(defender.name, damage, round(damage / defender.maxHp * 100),
+                                                   defender.hp - damage if defender.hp - damage >= 0 else 0))
                         attacker.move.afterDamage(attacker, defender, damage)
                 if miss:
                     attacker.move.afterMiss(attacker, defender)
