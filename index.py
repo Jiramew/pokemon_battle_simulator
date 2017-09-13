@@ -28,6 +28,10 @@ def pokemon_battle(team1, team2):
     for pkm in team2.get("pokemon"):
         trainer2.addPokemon(Pokemon(pid=pkm))
 
+    print(trainer1.nameOrYou() + " took out " + " ".join([pokemon.name for pokemon in trainer1.team]))
+    print(trainer2.nameOrYou() + " took out " + " ".join([pokemon.name for pokemon in trainer2.team]))
+    print("\n")
+
     battle = Battle(trainer1, trainer2)
     return battle.start()
 
@@ -38,6 +42,6 @@ def pokemon_build(pokemonId):
 
 
 if __name__ == '__main__':
-    pokemon_battle([66, 200, 151, 100], [90, 365, 32, 89])
+    pokemon_battle([143, 144, 145, 146], [151, 148, 149, 150])
 # pokemon = {}
 # print(pokemon_lookup("arcanine"))

@@ -26,7 +26,7 @@ class Move(object):
 
     def __str__(self):
         return self.name + "(" + self.type.name + " - " + (
-            'X' if self.basePower == 1 else self.basePower) + " power - " + str(self.accuracy) + " accuracy)"
+            'X' if self.basePower == 1 else str(self.basePower)) + " power - " + str(self.accuracy) + " accuracy)"
 
     def banned(self):
         return (self.damageClass == DAMAGE_NONE) or (self.effect.banned()) or (self.power() < 2)

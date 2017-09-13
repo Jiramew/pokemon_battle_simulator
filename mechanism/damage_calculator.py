@@ -5,15 +5,15 @@ class DamageCalculator(object):
     def __init__(self):
         pass
 
-    def calculate(self, move, attacker, defender, critical=False, random=0.9):
-        attack = attacker.stat(move.attackStat(), {"ignoreNegative": "critical"})
-        defendse = defender.stat(move.defenseStat(), {"ignorePositive": "critical"})
+    def calculate(self, move, attacker, defender, critical=False, rand=0.9):
+        attack = attacker.stat(move.attackStat(), {"ignoreNegative": critical})
+        defense = defender.stat(move.defenseStat(), {"ignorePositive": critical})
 
         stab = 1.5 if move.type.id in [type.id for type in attacker.types] else 1
         type = move.effectiveness(attacker, defender)
         crit = 1.5 if critical else 1
 
-        return self.formula(move.power(attacker, defender), attack, defendse, stab * type * crit * random)
+        return self.formula(move.power(attacker, defender), attack, defense, stab * type * crit * rand)
 
     def confusionDamage(self, pokemon):
         attack = pokemon.stat("attack")

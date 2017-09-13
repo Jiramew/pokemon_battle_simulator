@@ -102,7 +102,7 @@ class Battle(object):
                     while not ((hit == hits) or self.stopMultiHit):
                         hit += 1
                         critical = random.random() < self.criticalChance(attacker.move.criticalRateStage())
-                        rand = random.random() * (1 - 0.85 + 0.85)
+                        rand = random.random() * (1 - 0.85) + 0.85
                         if critical:
                             print("It's a critical hit!")
                         if effectiveness > 1:

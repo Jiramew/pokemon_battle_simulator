@@ -48,6 +48,7 @@ class Trainer(object):
         candidates = [pokemon for pokemon in self.ablePokemon() if pokemon != self.mainPokemon]
         maxScore = -1
         for pokemon in candidates:
+            pokemon.score = 0
             if pokemon.typeAdvantageAgainst(opponent):
                 pokemon.score += 1
             if opponent.typeAdvantageAgainst(pokemon):
