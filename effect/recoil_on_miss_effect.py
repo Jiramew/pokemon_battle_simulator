@@ -15,5 +15,5 @@ class RecoilOnMissEffect(DefaultEffect):
         recoil = min(int(attacker.maxHp / 2), attacker.hp)
         attacker.hp -= recoil
 
-        print(attacker.trainAndName() + " kept going and crashed for " + str(recoil) + " HP (" + str(
+        print(attacker.trainerAndName() + " kept going and crashed for " + str(recoil) + " HP (" + str(
             round(recoil / attacker.maxHp * 100)) + "%)!")
