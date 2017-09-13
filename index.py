@@ -1,3 +1,5 @@
+import random
+
 from main.dexLoader import DexLoader
 from pokemon import Pokemon
 from trainer import Trainer
@@ -42,6 +44,6 @@ def pokemon_build(pokemonId):
 
 
 if __name__ == '__main__':
-    pokemon_battle([143, 144, 145, 146], [151, 148, 149, 150])
-# pokemon = {}
-# print(pokemon_lookup("arcanine"))
+    pl = range(1, 600)
+    # pokemon_battle([143, 144, 145, 146], [151, 148, 149, 150])
+    pokemon_battle(random.sample(pl, 6), random.sample(pl, 6))
