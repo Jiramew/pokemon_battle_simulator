@@ -3,15 +3,16 @@ from functools import reduce
 
 
 class DualEffect(DefaultEffect):
-    def __init__(self, id, chance, effects):
-        super(DualEffect, self).__init__(id, chance)
+    def __init__(self, id, effects):
+        self.id = id
         self.effects = effects
 
     def power(self, base, attacker=None, defender=None):
         return base
 
     def effectiveness(self, attacker, defender, effectiveness=None):
-        return reduce(lambda x, y: x * y, [effect.effectiveness(attacker, defender) for effect in self.effects])
+        return reduce(lambda x, y: x * y,
+                      [effect.effectiveness(attacker, defender, effectiveness) for effect in self.effects])
 
     def hits(self):
         return max([effect.hits() for effect in self.effects])
@@ -20,7 +21,7 @@ class DualEffect(DefaultEffect):
         return max([effect.criticalRateStage() for effect in self.effects])
 
     def buildMultiplier(self, attacker):
-        return reduce(lambda x, y: x * y, [effect.buildMultiple(attacker) for effect in self.effects])
+        return reduce(lambda x, y: x * y, [effect.buildMultiplier(attacker) for effect in self.effects])
 
     def battleMultiplier(self, attacker, defender, damage, lethal):
         return reduce(lambda x, y: x * y,

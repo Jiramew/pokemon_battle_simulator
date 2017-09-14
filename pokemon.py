@@ -28,7 +28,7 @@ class Pokemon(object):
         }
         self.maxHp = 141 + 2 * self.pokemon.get("stats").get("hp")
         self.hp = self.maxHp
-        self.conditions = []
+        self.conditions = {}
         self.ailment = None
         self.faintObservers = []
         self.strategy = Strategy(self)
@@ -146,7 +146,8 @@ class Pokemon(object):
     def canAttack(self):
         if self.ailment is not None and not self.ailment.canAttack(self):
             return False
-        for x, condition in self.conditions:
+        conditions = self.conditions
+        for x, condition in conditions.items():
             if not condition.canAttack(self):
                 return False
 
@@ -161,5 +162,6 @@ class Pokemon(object):
     def endTurn(self):
         if self.ailment is not None:
             self.ailment.endTurn(self)
-        for x, condition in self.conditions:
+        conditions = self.conditions
+        for x, condition in conditions.items():
             condition.endTurn(self)

@@ -1,5 +1,6 @@
 from effect.banned_effect import BannedEffect
 from effect.crit_rate_effect import CritRateEffect
+from effect.condition_effect import ConditionEffect
 from effect.double_power_effect import DoublePowerEffect
 from effect.dual_effect import DualEffect
 from effect.default_effect import DefaultEffect
@@ -11,6 +12,7 @@ from effect.recoil_on_miss_effect import RecoilOnMissEffect
 from effect.stat_stage_effect import StatStageEffect
 from effect.struggle_effect import StruggleEffect
 from effect.switch_out_effect import SwitchOutEffect
+from effect.status_ailment_effect import StatusAilmentEffect
 from effect.weight_dependent_effect import WeightDependentEffect
 
 
@@ -22,18 +24,18 @@ class Effect(object):
     def make(id, chance):
         if id in [1, 35, 104]:
             return NoEffect(id)
-        # if id in [254, 263]
-        #    return DualEffect(id, [RecoilEffect(id), (StatusAilmentEffect(id, chance)])
-        # if id == 78:
-        #    return DualEffect(id, [(MultiHitEffect(id), StatusAilmentEffect(id, chance)])
-        # if id in [274, 275, 276]:
-        #    return DualEffect(id, [ConditionEffect(id, chance), StatusAilmentEffect(id, chance)])
-        # if id in [201, 210]:
-        #    return DualEffect(id, [CritRateEffect(id), StatusAilmentEffect(id, chance)])
+        if id in [254, 263]:
+            return DualEffect(id, [RecoilEffect(id), StatusAilmentEffect(id, chance)])
+        if id == 78:
+            return DualEffect(id, [MultiHitEffect(id), StatusAilmentEffect(id, chance)])
+        if id in [274, 275, 276]:
+            return DualEffect(id, [ConditionEffect(id, chance), StatusAilmentEffect(id, chance)])
+        if id in [201, 210]:
+            return DualEffect(id, [CritRateEffect(id), StatusAilmentEffect(id, chance)])
 
         # Status Ailments - Also 126
-        # if id in [3, 5, 6, 7, 153, 203, 261]
-        #    return StatusAilmentEffect(id, chance)
+        if id in [3, 5, 6, 7, 153, 203, 261]:
+            return StatusAilmentEffect(id, chance)
 
         if id in [37, 126, 153, 170, 172, 198, 284, 330]:
             return DefaultEffect(id)
@@ -55,11 +57,11 @@ class Effect(object):
         if id in [130, 148, 150, 186, 187, 208, 222, 224, 231, 232, 258, 269, 288, 290, 302, 303, 311, 314, 320, 350]:
             return DefaultEffect(id)
 
-        # if id in [32, 147, 151]:
-        #    return ConditionEffect(id, chance)
+        if id in [32, 147, 151]:
+            return ConditionEffect(id, chance)
 
-        # if id in [77,268,338]:
-        #    return ConditionEffect(id, chance)
+        if id in [77, 268, 338]:
+            return ConditionEffect(id, chance)
 
         # Fully Implemented
         if id in [4, 348, 353]:
