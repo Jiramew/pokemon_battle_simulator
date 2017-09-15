@@ -1,3 +1,4 @@
+import copy
 from main.dexLoader import DexLoader
 from type import Type
 from move import Move
@@ -146,7 +147,7 @@ class Pokemon(object):
     def canAttack(self):
         if self.ailment is not None and not self.ailment.canAttack(self):
             return False
-        conditions = self.conditions
+        conditions = copy.deepcopy(self.conditions)
         for x, condition in conditions.items():
             if not condition.canAttack(self):
                 return False
@@ -162,6 +163,7 @@ class Pokemon(object):
     def endTurn(self):
         if self.ailment is not None:
             self.ailment.endTurn(self)
-        conditions = self.conditions
+        conditions = copy.deepcopy(self.conditions)
         for x, condition in conditions.items():
             condition.endTurn(self)
+        del conditions

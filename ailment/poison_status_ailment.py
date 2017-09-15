@@ -13,7 +13,7 @@ class PoisonStatusAilment(StatusAilment):
         print(pokemon.trainerAndName() + " was poisoned!")
 
     def endTurn(self, pokemon):
-        damage = pokemon.maxHp * self.multiplier
+        damage = round(pokemon.maxHp * self.multiplier)
         pokemon.takeDamage(damage, "{0} was hurt {1} by poison!".format(str(pokemon), damage))
 
     def battleMultiplier(self, chance):
