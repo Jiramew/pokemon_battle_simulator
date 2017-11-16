@@ -48,4 +48,4 @@ if __name__ == '__main__':
     # pl = [k for k, v in pd.items() if sum(v.get("stats").values()) >= 510]
     pl = range(1, 152)
     # pokemon_battle([143, 144, 145, 146], [151, 148, 149, 150])
-    pokemon_battle(random.sample(pl, 6), random.sample(pl, 6))
+    pokemon_battle(random.sample(pl, 50), random.sample(pl, 50))
