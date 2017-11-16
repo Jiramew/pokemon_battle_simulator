@@ -1,0 +1,1740 @@
+You took out Ditto Rapidash Alakazam Blastoise Tangela Raichu Hypno Grimer Voltorb Venonat Caterpie Persian Tauros Paras Venusaur Haunter Sandslash Golbat Growlithe Sandshrew Nidorino Exeggcute Mew Horsea Lapras Kangaskhan Jigglypuff Dugtrio Gyarados Onix Pikachu Machop Eevee Staryu Ninetales Dodrio Charmeleon Oddish Koffing Bellsprout Nidoran♂ Pinsir Lickitung Abra Machamp Magnemite Clefable Omastar Arbok Kabuto
+The foe took out Kingler Geodude Growlithe Machamp Rapidash Golduck Raichu Marowak Diglett Mr. Mime Nidoqueen Fearow Caterpie Nidoran♂ Meowth Arbok Clefable Nidoran♀ Ivysaur Ditto Bulbasaur Jolteon Shellder Eevee Vulpix Parasect Exeggutor Poliwag Gloom Venonat Pinsir Ekans Dratini Zapdos Spearow Dugtrio Lickitung Dragonite Magnemite Beedrill Slowpoke Zubat Lapras Seaking Ponyta Jynx Electabuzz Psyduck Wigglytuff Golem
+
+
+The foe's Kingler used Brick Break!
+It's super effective!
+Ditto was hit for 275(116%), 0 left
+Your Ditto fainted!
+You took out Bellsprout
+
+The foe withdrew Kingler.
+The foe took out Dragonite
+Your Bellsprout used Power Whip!
+It's not very effective...
+Dragonite was hit for 30(9%), 293 left
+
+You withdrew Bellsprout.
+You took out Omastar
+The foe's Dragonite used Earthquake!
+It's super effective!
+Omastar was hit for 181(64%), 100 left
+
+The foe withdrew Dragonite.
+The foe took out Magnemite
+Your Omastar used Ice Beam!
+It's not very effective...
+Magnemite was hit for 62(32%), 129 left
+
+You withdrew Omastar.
+You took out Charmeleon
+The foe's Magnemite used Thunderbolt!
+Charmeleon was hit for 143(56%), 114 left
+
+The foe withdrew Magnemite.
+The foe took out Shellder
+Your Charmeleon used Fire Blast!
+Your Charmeleon's attack missed
+
+You withdrew Charmeleon.
+You took out Exeggcute
+The foe's Shellder used Rock Blast!
+Exeggcute was hit for 18(7%), 243 left
+It's a critical hit!
+Exeggcute was hit for 28(11%), 215 left
+Exeggcute was hit for 20(8%), 195 left
+Exeggcute was hit for 19(7%), 176 left
+
+The foe withdrew Shellder.
+The foe took out Parasect
+Your Exeggcute used Giga Drain!
+It's not very effective...
+Parasect was hit for 18(7%), 243 left
+
+You withdrew Exeggcute.
+You took out Grimer
+The foe's Parasect used X-Scissor!
+It's not very effective...
+Grimer was hit for 83(28%), 218 left
+
+The foe withdrew Parasect.
+The foe took out Marowak
+Your Grimer used Gunk Shot!
+It's not very effective...
+Marowak was hit for 57(22%), 204 left
+
+You withdrew Grimer.
+You took out Tangela
+The foe's Marowak used Earthquake!
+It's not very effective...
+Tangela was hit for 48(18%), 223 left
+
+The foe withdrew Marowak.
+The foe took out Beedrill
+Your Tangela used Giga Drain!
+It's not very effective...
+Beedrill was hit for 26(10%), 245 left
+
+You withdrew Tangela.
+You took out Omastar
+The foe's Beedrill used Poison Jab!
+It's not very effective...
+Omastar was hit for 38(14%), 62 left
+
+The foe withdrew Beedrill.
+The foe took out Gloom
+Your Omastar used Ancient Power!
+Gloom was hit for 114(44%), 147 left
+
+You withdrew Omastar.
+You took out Mew
+The foe's Gloom used Giga Drain!
+Mew was hit for 84(25%), 257 left
+
+The foe withdrew Gloom.
+The foe took out Caterpie
+Your Mew used Psychic!
+Caterpie was hit for 370(160%), 0 left
+The foe's Caterpie fainted!
+The foe took out Parasect
+
+You withdrew Mew.
+You took out Haunter
+The foe's Parasect used X-Scissor!
+It's a critical hit!
+It's not very effective...
+Haunter was hit for 69(30%), 162 left
+
+The foe withdrew Parasect.
+The foe took out Dugtrio
+Your Haunter used Sludge Bomb!
+It's not very effective...
+Dugtrio was hit for 83(39%), 128 left
+The foe's Dugtrio was poisoned!
+Dugtrio was hurt 26 by poison!
+
+You withdrew Haunter.
+You took out Tangela
+The foe's Dugtrio used Earthquake!
+It's a critical hit!
+It's not very effective...
+Tangela was hit for 75(28%), 161 left
+Dugtrio was hurt 26 by poison!
+
+The foe withdrew Dugtrio.
+The foe took out Arbok
+Your Tangela used Giga Drain!
+It's not very effective...
+Arbok was hit for 55(21%), 206 left
+
+You withdrew Tangela.
+You took out Mew
+The foe's Arbok used Gunk Shot!
+It's a critical hit!
+Mew was hit for 202(59%), 55 left
+
+The foe withdrew Arbok.
+The foe took out Pinsir
+Your Mew used Psychic!
+Pinsir was hit for 141(52%), 130 left
+
+You withdrew Mew.
+You took out Growlithe
+The foe's Pinsir used Earthquake!
+It's super effective!
+Growlithe was hit for 402(160%), 0 left
+Your Growlithe fainted!
+You took out Golbat
+
+The foe withdrew Pinsir.
+The foe took out Lapras
+Your Golbat used Acrobatics!
+Lapras was hit for 127(32%), 274 left
+
+You withdrew Golbat.
+You took out Machamp
+The foe's Lapras used Ice Beam!
+Machamp was hit for 114(36%), 207 left
+Your Machamp was frozen solid!
+
+The foe withdrew Lapras.
+The foe took out Clefable
+Your Machamp is frozen solid!
+
+You withdrew Machamp.
+You took out Bellsprout
+The foe's Clefable used Moonblast!
+It's not very effective...
+Bellsprout was hit for 141(59%), 100 left
+
+The foe withdrew Clefable.
+The foe took out Ponyta
+Your Bellsprout used Sludge Bomb!
+Ponyta was hit for 113(47%), 128 left
+
+You withdrew Bellsprout.
+You took out Kabuto
+The foe's Ponyta used Flare Blitz!
+It's not very effective...
+Kabuto was hit for 9(4%), 192 left
+Ponyta was hurt 3 by recoil!
+
+The foe withdrew Ponyta.
+The foe took out Bulbasaur
+Your Kabuto used Rock Tomb!
+It's a critical hit!
+Bulbasaur was hit for 161(70%), 70 left
+The foe's Bulbasaur's Speed fell
+
+You withdrew Kabuto.
+You took out Dodrio
+The foe's Bulbasaur used Giga Drain!
+It's not very effective...
+Dodrio was hit for 52(20%), 209 left
+
+The foe withdrew Bulbasaur.
+The foe took out Raichu
+Your Dodrio used Facade!
+Raichu was hit for 146(56%), 115 left
+
+You withdrew Dodrio.
+You took out Dugtrio
+The foe's Raichu used Volt Tackle!
+It dosen't affect Your Dugtrio...
+
+The foe withdrew Raichu.
+The foe took out Golduck
+Your Dugtrio used Earthquake!
+Golduck was hit for 138(46%), 163 left
+
+You withdrew Dugtrio.
+You took out Oddish
+The foe's Golduck used Scald!
+It's not very effective...
+Oddish was hit for 64(28%), 167 left
+
+The foe withdrew Golduck.
+The foe took out Spearow
+Your Oddish used Giga Drain!
+It's not very effective...
+Spearow was hit for 88(40%), 133 left
+
+You withdrew Oddish.
+You took out Voltorb
+The foe's Spearow used Drill Peck!
+It's not very effective...
+Voltorb was hit for 56(25%), 165 left
+
+The foe withdrew Spearow.
+The foe took out Geodude
+Your Voltorb used Thunderbolt!
+It dosen't affect The foe's Geodude...
+
+You withdrew Voltorb.
+You took out Machop
+The foe's Geodude used Earthquake!
+It's a critical hit!
+Machop was hit for 251(89%), 30 left
+
+The foe withdrew Geodude.
+The foe took out Spearow
+Your Machop used Cross Chop!
+Spearow was hit for 260(118%), 0 left
+The foe's Spearow fainted!
+The foe took out Mr. Mime
+
+You withdrew Machop.
+You took out Magnemite
+The foe's Mr. Mime used Shadow Ball!
+It's a critical hit!
+Magnemite was hit for 156(82%), 35 left
+
+The foe withdrew Mr. Mime.
+The foe took out Dugtrio
+Your Magnemite used Flash Cannon!
+Dugtrio was hit for 130(62%), 0 left
+The foe's Dugtrio fainted!
+The foe took out Vulpix
+
+You withdrew Magnemite.
+You took out Dugtrio
+The foe's Vulpix used Dark Pulse!
+Dugtrio was hit for 55(26%), 156 left
+
+The foe withdrew Vulpix.
+The foe took out Ivysaur
+Your Dugtrio used Earthquake!
+Ivysaur was hit for 147(56%), 114 left
+
+You withdrew Dugtrio.
+You took out Dodrio
+The foe's Ivysaur used Giga Drain!
+It's not very effective...
+Dodrio was hit for 60(23%), 149 left
+
+The foe withdrew Ivysaur.
+The foe took out Geodude
+Your Dodrio used Facade!
+It's not very effective...
+Geodude was hit for 52(24%), 169 left
+
+You withdrew Dodrio.
+You took out Machop
+The foe's Geodude used Stone Edge!
+The foe's Geodude's attack missed
+
+The foe withdrew Geodude.
+The foe took out Exeggutor
+Your Machop used Cross Chop!
+It's a critical hit!
+It's not very effective...
+Exeggutor was hit for 93(28%), 238 left
+
+You withdrew Machop.
+You took out Paras
+The foe's Exeggutor used Ancient Power!
+It's super effective!
+Paras was hit for 191(91%), 20 left
+
+The foe withdrew Exeggutor.
+The foe took out Dragonite
+Your Paras used X-Scissor!
+It's not very effective...
+Dragonite was hit for 39(12%), 254 left
+
+You withdrew Paras.
+You took out Clefable
+The foe's Dragonite used Extreme Speed!
+Clefable was hit for 116(35%), 215 left
+
+The foe withdrew Dragonite.
+The foe took out Beedrill
+Your Clefable used Ice Beam!
+Beedrill was hit for 93(34%), 152 left
+
+You withdrew Clefable.
+You took out Onix
+The foe's Beedrill used Poison Jab!
+It's not very effective...
+Onix was hit for 14(7%), 197 left
+Your Onix was poisoned!
+Onix was hurt 26 by poison!
+
+The foe withdrew Beedrill.
+The foe took out Seaking
+Your Onix used Earthquake!
+Seaking was hit for 89(30%), 212 left
+Onix was hurt 26 by poison!
+
+You withdrew Onix.
+You took out Magnemite
+The foe's Seaking used Aqua Tail!
+Magnemite was hit for 129(68%), 0 left
+Your Magnemite fainted!
+You took out Paras
+
+The foe withdrew Seaking.
+The foe took out Gloom
+Your Paras used Giga Drain!
+It's a critical hit!
+It's not very effective...
+Gloom was hit for 25(10%), 164 left
+
+You withdrew Paras.
+You took out Abra
+The foe's Gloom used Sludge Bomb!
+Abra was hit for 156(82%), 35 left
+Your Abra was poisoned!
+Abra was hurt 24 by poison!
+
+The foe withdrew Gloom.
+The foe took out Pinsir
+Your Abra used Psychic!
+Pinsir was hit for 164(61%), 0 left
+The foe's Pinsir fainted!
+The foe took out Parasect
+Abra was hurt 24 by poison!
+Your Abra fainted!
+You took out Nidorino
+
+The foe withdrew Parasect.
+The foe took out Jynx
+Your Nidorino used Poison Jab!
+Jynx was hit for 178(66%), 93 left
+
+You withdrew Nidorino.
+You took out Omastar
+The foe's Jynx used Psychic!
+It's a critical hit!
+Omastar was hit for 266(95%), 0 left
+Your Omastar fainted!
+You took out Ninetales
+
+The foe withdrew Jynx.
+The foe took out Lapras
+Your Ninetales used Dark Pulse!
+It's a critical hit!
+Lapras was hit for 86(21%), 188 left
+
+You withdrew Ninetales.
+You took out Pikachu
+The foe's Lapras used Surf!
+Pikachu was hit for 162(77%), 49 left
+
+The foe withdrew Lapras.
+The foe took out Diglett
+Your Pikachu used Brick Break!
+Diglett was hit for 97(60%), 64 left
+
+You withdrew Pikachu.
+You took out Blastoise
+The foe's Diglett used Headbutt!
+Blastoise was hit for 35(12%), 264 left
+
+The foe withdrew Diglett.
+The foe took out Exeggutor
+Your Blastoise used Scald!
+It's a critical hit!
+It's not very effective...
+Exeggutor was hit for 98(30%), 140 left
+
+You withdrew Blastoise.
+You took out Charmeleon
+The foe's Exeggutor used Giga Drain!
+It's not very effective...
+Charmeleon was hit for 83(32%), 31 left
+
+The foe withdrew Exeggutor.
+The foe took out Diglett
+Your Charmeleon used Fire Blast!
+Your Charmeleon's attack missed
+
+You withdrew Charmeleon.
+You took out Paras
+The foe's Diglett used Headbutt!
+Paras was hit for 62(29%), 0 left
+Your Paras fainted!
+You took out Venusaur
+
+The foe withdrew Diglett.
+The foe took out Rapidash
+Your Venusaur used Sludge Bomb!
+Rapidash was hit for 131(48%), 140 left
+The foe's Rapidash was poisoned!
+Rapidash was hurt 34 by poison!
+
+You withdrew Venusaur.
+You took out Dugtrio
+The foe's Rapidash used Flare Blitz!
+Dugtrio was hit for 242(115%), 0 left
+Your Dugtrio fainted!
+You took out Sandslash
+Rapidash was hurt 81 by recoil!
+Rapidash was hurt 34 by poison!
+The foe's Rapidash fainted!
+The foe took out Golduck
+
+You withdrew Sandslash.
+You took out Oddish
+The foe's Golduck used Scald!
+It's not very effective...
+Oddish was hit for 73(32%), 138 left
+
+The foe withdrew Golduck.
+The foe took out Ponyta
+Your Oddish used Giga Drain!
+It's not very effective...
+Ponyta was hit for 49(20%), 76 left
+
+You withdrew Oddish.
+You took out Horsea
+The foe's Ponyta used Flare Blitz!
+It's not very effective...
+Horsea was hit for 45(22%), 156 left
+Ponyta was hurt 15 by recoil!
+
+The foe withdrew Ponyta.
+The foe took out Gloom
+Your Horsea used Scald!
+It's a critical hit!
+It's not very effective...
+Gloom was hit for 72(28%), 92 left
+
+You withdrew Horsea.
+You took out Charmeleon
+The foe's Gloom used Giga Drain!
+It's not very effective...
+Charmeleon was hit for 57(22%), 0 left
+Your Charmeleon fainted!
+You took out Mew
+
+The foe withdrew Gloom.
+The foe took out Parasect
+Your Mew used Psychic!
+Parasect was hit for 131(50%), 112 left
+
+You withdrew Mew.
+You took out Caterpie
+The foe's Parasect used Giga Drain!
+It's not very effective...
+Caterpie was hit for 96(42%), 135 left
+
+The foe withdrew Parasect.
+The foe took out Dragonite
+Your Caterpie used Bug Bite!
+It's not very effective...
+Dragonite was hit for 16(5%), 238 left
+
+You withdrew Caterpie.
+You took out Lapras
+The foe's Dragonite used Extreme Speed!
+It's a critical hit!
+Lapras was hit for 152(38%), 249 left
+
+The foe withdrew Dragonite.
+The foe took out Machamp
+Your Lapras used Ice Beam!
+Machamp was hit for 104(32%), 217 left
+The foe's Machamp was frozen solid!
+
+You withdrew Lapras.
+You took out Clefable
+The foe's Machamp thawed out!
+The foe's Machamp used Cross Chop!
+It's not very effective...
+Clefable was hit for 96(29%), 119 left
+
+The foe withdrew Machamp.
+The foe took out Gloom
+Your Clefable used Moonblast!
+It's not very effective...
+Gloom was hit for 75(29%), 45 left
+
+You withdrew Clefable.
+You took out Gyarados
+The foe's Gloom used Sludge Bomb!
+Gyarados was hit for 91(27%), 240 left
+
+The foe withdrew Gloom.
+The foe took out Zapdos
+Your Gyarados used Waterfall!
+Zapdos was hit for 135(42%), 186 left
+
+You withdrew Gyarados.
+You took out Onix
+The foe's Zapdos used Thunderbolt!
+It dosen't affect Your Onix...
+Onix was hurt 26 by poison!
+
+The foe withdrew Zapdos.
+The foe took out Gloom
+Your Onix used Stone Edge!
+Gloom was hit for 84(32%), 0 left
+The foe's Gloom fainted!
+The foe took out Seaking
+Onix was hurt 26 by poison!
+
+You withdrew Onix.
+You took out Voltorb
+The foe's Seaking used Aqua Tail!
+Voltorb was hit for 168(76%), 0 left
+Your Voltorb fainted!
+You took out Venusaur
+
+The foe withdrew Seaking.
+The foe took out Fearow
+Your Venusaur used Giga Drain!
+It's not very effective...
+Fearow was hit for 69(25%), 202 left
+
+You withdrew Venusaur.
+You took out Pikachu
+The foe's Fearow used Drill Peck!
+It's not very effective...
+Pikachu was hit for 88(42%), 0 left
+Your Pikachu fainted!
+You took out Kabuto
+
+The foe withdrew Fearow.
+The foe took out Electabuzz
+Your Kabuto used Rock Tomb!
+Electabuzz was hit for 101(37%), 170 left
+The foe's Electabuzz's Speed fell
+
+You withdrew Kabuto.
+You took out Onix
+The foe's Electabuzz used Thunderbolt!
+It dosen't affect Your Onix...
+Onix was hurt 26 by poison!
+
+The foe withdrew Electabuzz.
+The foe took out Kingler
+Your Onix used Earthquake!
+Kingler was hit for 65(26%), 186 left
+Onix was hurt 26 by poison!
+
+You withdrew Onix.
+You took out Bellsprout
+The foe's Kingler used X-Scissor!
+Bellsprout was hit for 191(79%), 0 left
+Your Bellsprout fainted!
+You took out Oddish
+
+The foe withdrew Kingler.
+The foe took out Zubat
+Your Oddish used Giga Drain!
+It's a critical hit!
+It's not very effective...
+Zubat was hit for 56(25%), 165 left
+
+You withdrew Oddish.
+You took out Lapras
+The foe's Zubat used Acrobatics!
+Lapras was hit for 95(24%), 154 left
+
+The foe withdrew Zubat.
+The foe took out Machamp
+Your Lapras used Ice Beam!
+Machamp was hit for 120(37%), 97 left
+
+You withdrew Lapras.
+You took out Hypno
+The foe's Machamp used Cross Chop!
+It's a critical hit!
+It's not very effective...
+Hypno was hit for 161(52%), 150 left
+
+The foe withdrew Machamp.
+The foe took out Parasect
+Your Hypno used Psychic!
+Parasect was hit for 108(41%), 52 left
+The foe's Parasect's Special Defense fell
+
+You withdrew Hypno.
+You took out Nidoran♂
+The foe's Parasect used X-Scissor!
+It's not very effective...
+Nidoran♂ was hit for 104(45%), 129 left
+
+The foe withdrew Parasect.
+The foe took out Marowak
+Your Nidoran♂ used Poison Jab!
+It's not very effective...
+Marowak was hit for 32(12%), 172 left
+The foe's Marowak was poisoned!
+Marowak was hurt 33 by poison!
+
+You withdrew Nidoran♂.
+You took out Lapras
+The foe's Marowak used Earthquake!
+Lapras was hit for 132(33%), 22 left
+Marowak was hurt 33 by poison!
+
+The foe withdrew Marowak.
+The foe took out Magnemite
+Your Lapras used Ice Beam!
+It's not very effective...
+Magnemite was hit for 74(39%), 55 left
+
+You withdrew Lapras.
+You took out Sandslash
+The foe's Magnemite used Thunderbolt!
+It dosen't affect Your Sandslash...
+
+The foe withdrew Magnemite.
+The foe took out Seaking
+Your Sandslash used Earthquake!
+Seaking was hit for 173(57%), 39 left
+
+You withdrew Sandslash.
+You took out Exeggcute
+The foe's Seaking used Aqua Tail!
+It's not very effective...
+Exeggcute was hit for 62(24%), 123 left
+
+The foe withdrew Seaking.
+The foe took out Dragonite
+Your Exeggcute used Ancient Power!
+It's super effective!
+Dragonite was hit for 69(21%), 169 left
+
+You withdrew Exeggcute.
+You took out Jigglypuff
+The foe's Dragonite used Dragon Rush!
+It dosen't affect Your Jigglypuff...
+
+The foe withdrew Dragonite.
+The foe took out Ivysaur
+Your Jigglypuff used Dazzling Gleam!
+It's not very effective...
+Ivysaur was hit for 35(13%), 109 left
+
+You withdrew Jigglypuff.
+You took out Hypno
+The foe's Ivysaur used Sludge Bomb!
+Hypno was hit for 85(27%), 65 left
+Your Hypno was poisoned!
+Hypno was hurt 39 by poison!
+
+The foe withdrew Ivysaur.
+The foe took out Parasect
+Your Hypno used Psychic!
+Parasect was hit for 112(43%), 0 left
+The foe's Parasect fainted!
+The foe took out Growlithe
+Hypno was hurt 39 by poison!
+Your Hypno fainted!
+You took out Lapras
+
+The foe withdrew Growlithe.
+The foe took out Machamp
+Your Lapras used Surf!
+Machamp was hit for 105(33%), 0 left
+The foe's Machamp fainted!
+The foe took out Electabuzz
+
+You withdrew Lapras.
+You took out Onix
+The foe's Electabuzz used Hammer Arm!
+It's super effective!
+Onix was hit for 98(46%), 0 left
+Your Onix fainted!
+You took out Sandslash
+The foe's Electabuzz's Speed rose
+
+The foe withdrew Electabuzz.
+The foe took out Ivysaur
+Your Sandslash used Earthquake!
+Ivysaur was hit for 172(66%), 0 left
+The foe's Ivysaur fainted!
+The foe took out Jynx
+
+You withdrew Sandslash.
+You took out Kabuto
+The foe's Jynx used Ice Beam!
+It's not very effective...
+Kabuto was hit for 122(61%), 70 left
+
+The foe withdrew Jynx.
+The foe took out Bulbasaur
+Your Kabuto used Rock Tomb!
+Bulbasaur was hit for 118(51%), 0 left
+The foe's Bulbasaur fainted!
+The foe took out Jolteon
+
+You withdrew Kabuto.
+You took out Sandshrew
+The foe's Jolteon used Thunderbolt!
+It dosen't affect Your Sandshrew...
+
+The foe withdrew Jolteon.
+The foe took out Seaking
+Your Sandshrew used Earthquake!
+Seaking was hit for 137(46%), 0 left
+The foe's Seaking fainted!
+The foe took out Exeggutor
+
+You withdrew Sandshrew.
+You took out Ninetales
+The foe's Exeggutor used Giga Drain!
+It's not very effective...
+Ninetales was hit for 56(20%), 231 left
+
+The foe withdrew Exeggutor.
+The foe took out Golem
+Your Ninetales used Flare Blitz!
+It's not very effective...
+Golem was hit for 23(8%), 278 left
+Ninetales was hurt 8 by recoil!
+
+You withdrew Ninetales.
+You took out Blastoise
+The foe's Golem used Earthquake!
+Blastoise was hit for 154(52%), 110 left
+
+The foe withdrew Golem.
+The foe took out Zapdos
+Your Blastoise used Scald!
+Zapdos was hit for 92(29%), 94 left
+The foe's Zapdos was burned!
+Zapdos was hurt 40 by its burn!
+
+You withdrew Blastoise.
+You took out Haunter
+The foe's Zapdos used Thunderbolt!
+Haunter was hit for 221(96%), 0 left
+Your Haunter fainted!
+You took out Persian
+Zapdos was hurt 40 by its burn!
+
+Your Persian used Power Gem!
+It's a critical hit!
+It's super effective!
+Zapdos was hit for 149(46%), 0 left
+The foe's Zapdos fainted!
+The foe took out Arbok
+
+Your Persian used Slash!
+Arbok was hit for 88(34%), 118 left
+The foe's Arbok used Gunk Shot!
+The foe's Arbok's attack missed
+
+Your Persian used Slash!
+Arbok was hit for 96(37%), 22 left
+The foe's Arbok used Gunk Shot!
+Persian was hit for 203(75%), 68 left
+
+Your Persian used Slash!
+Arbok was hit for 96(37%), 0 left
+The foe's Arbok fainted!
+The foe took out Nidoqueen
+
+Your Persian used Slash!
+Nidoqueen was hit for 71(22%), 250 left
+The foe's Nidoqueen used Poison Jab!
+Persian was hit for 144(53%), 0 left
+Your Persian fainted!
+You took out Horsea
+
+The foe withdrew Nidoqueen.
+The foe took out Electabuzz
+Your Horsea used Scald!
+Electabuzz was hit for 92(34%), 78 left
+
+You withdrew Horsea.
+You took out Sandshrew
+The foe's Electabuzz used Thunderbolt!
+It dosen't affect Your Sandshrew...
+
+The foe withdrew Electabuzz.
+The foe took out Golduck
+Your Sandshrew used Poison Jab!
+Golduck was hit for 63(21%), 100 left
+The foe's Golduck was poisoned!
+Golduck was hurt 38 by poison!
+
+You withdrew Sandshrew.
+You took out Venusaur
+The foe's Golduck used Scald!
+It's not very effective...
+Venusaur was hit for 45(15%), 256 left
+Your Venusaur was burned!
+Venusaur was hurt 38 by its burn!
+Golduck was hurt 38 by poison!
+
+The foe withdrew Golduck.
+The foe took out Ponyta
+Your Venusaur used Giga Drain!
+It's not very effective...
+Ponyta was hit for 71(29%), 0 left
+The foe's Ponyta fainted!
+The foe took out Zubat
+Venusaur was hurt 38 by its burn!
+
+You withdrew Venusaur.
+You took out Alakazam
+The foe's Zubat used Acrobatics!
+Alakazam was hit for 144(57%), 107 left
+
+The foe withdrew Zubat.
+The foe took out Dratini
+Your Alakazam used Shadow Ball!
+Dratini was hit for 156(70%), 67 left
+
+Your Alakazam used Shadow Ball!
+Dratini was hit for 149(67%), 0 left
+The foe's Dratini fainted!
+The foe took out Clefable
+
+Your Alakazam used Psychic!
+Clefable was hit for 149(45%), 182 left
+The foe's Clefable used Moonblast!
+It's a critical hit!
+Alakazam was hit for 165(66%), 0 left
+Your Alakazam fainted!
+You took out Grimer
+
+The foe withdrew Clefable.
+The foe took out Diglett
+Your Grimer used Gunk Shot!
+It's not very effective...
+Diglett was hit for 159(99%), 0 left
+The foe's Diglett fainted!
+The foe took out Nidoqueen
+The foe's Diglett was poisoned!
+
+You withdrew Grimer.
+You took out Horsea
+The foe's Nidoqueen used Earthquake!
+Horsea was hit for 152(76%), 4 left
+
+The foe withdrew Nidoqueen.
+The foe took out Magnemite
+Your Horsea used Scald!
+Magnemite was hit for 119(62%), 0 left
+The foe's Magnemite fainted!
+The foe took out Electabuzz
+
+You withdrew Horsea.
+You took out Sandshrew
+The foe's Electabuzz used Hammer Arm!
+Sandshrew was hit for 79(33%), 162 left
+The foe's Electabuzz's Speed rose
+
+The foe withdrew Electabuzz.
+The foe took out Slowpoke
+Your Sandshrew used Poison Jab!
+Slowpoke was hit for 81(25%), 240 left
+The foe's Slowpoke was poisoned!
+Slowpoke was hurt 40 by poison!
+
+You withdrew Sandshrew.
+You took out Raichu
+The foe's Slowpoke used Scald!
+Raichu was hit for 60(23%), 201 left
+Your Raichu was burned!
+Raichu was hurt 33 by its burn!
+Slowpoke was hurt 40 by poison!
+
+The foe withdrew Slowpoke.
+The foe took out Geodude
+Your Raichu used Grass Knot!
+It's super effective!
+Geodude was hit for 446(202%), 0 left
+The foe's Geodude fainted!
+The foe took out Nidoqueen
+Raichu was hurt 33 by its burn!
+
+You withdrew Raichu.
+You took out Sandshrew
+The foe's Nidoqueen used Earthquake!
+Sandshrew was hit for 126(52%), 36 left
+
+The foe withdrew Nidoqueen.
+The foe took out Slowpoke
+Your Sandshrew used Earthquake!
+Slowpoke was hit for 133(41%), 27 left
+Slowpoke was hurt 40 by poison!
+The foe's Slowpoke fainted!
+The foe took out Jynx
+
+You withdrew Sandshrew.
+You took out Ninetales
+The foe's Jynx used Ice Beam!
+It's not very effective...
+Ninetales was hit for 63(22%), 160 left
+
+The foe withdrew Jynx.
+The foe took out Golduck
+Your Ninetales used Dark Pulse!
+It's a critical hit!
+Golduck was hit for 107(36%), 0 left
+The foe's Golduck fainted!
+The foe took out Poliwag
+
+You withdrew Ninetales.
+You took out Tangela
+The foe's Poliwag used Waterfall!
+It's not very effective...
+Tangela was hit for 27(10%), 162 left
+
+The foe withdrew Poliwag.
+The foe took out Nidoran♀
+Your Tangela used Giga Drain!
+It's not very effective...
+Nidoran♀ was hit for 95(38%), 156 left
+
+You withdrew Tangela.
+You took out Mew
+The foe's Nidoran♀ used Sludge Bomb!
+Mew was hit for 58(17%), 0 left
+Your Mew fainted!
+You took out Sandslash
+Your Mew was poisoned!
+
+The foe withdrew Nidoran♀.
+The foe took out Kingler
+Your Sandslash used Earthquake!
+Kingler was hit for 103(41%), 83 left
+
+You withdrew Sandslash.
+You took out Venusaur
+The foe's Kingler used Crabhammer!
+It's a critical hit!
+It's not very effective...
+Venusaur was hit for 133(44%), 159 left
+Venusaur was hurt 38 by its burn!
+
+The foe withdrew Kingler.
+The foe took out Growlithe
+Your Venusaur used Giga Drain!
+It's not very effective...
+Growlithe was hit for 82(33%), 169 left
+Venusaur was hurt 38 by its burn!
+
+You withdrew Venusaur.
+You took out Blastoise
+The foe's Growlithe used Flare Blitz!
+It's not very effective...
+Blastoise was hit for 27(9%), 83 left
+Growlithe was hurt 9 by recoil!
+
+The foe withdrew Growlithe.
+The foe took out Electabuzz
+Your Blastoise used Scald!
+It's a critical hit!
+Electabuzz was hit for 152(56%), 0 left
+The foe's Electabuzz fainted!
+The foe took out Raichu
+
+You withdrew Blastoise.
+You took out Sandslash
+The foe's Raichu used Grass Knot!
+It's super effective!
+Sandslash was hit for 143(49%), 148 left
+
+The foe withdrew Raichu.
+The foe took out Kingler
+Your Sandslash used Poison Jab!
+Kingler was hit for 63(25%), 20 left
+
+You withdrew Sandslash.
+You took out Exeggcute
+The foe's Kingler used Crabhammer!
+It's not very effective...
+Exeggcute was hit for 88(34%), 35 left
+
+The foe withdrew Kingler.
+The foe took out Fearow
+Your Exeggcute used Ancient Power!
+It's a critical hit!
+It's super effective!
+Fearow was hit for 147(54%), 55 left
+
+You withdrew Exeggcute.
+You took out Lapras
+The foe's Fearow used Drill Peck!
+Lapras was hit for 105(26%), 0 left
+Your Lapras fainted!
+You took out Kabuto
+
+The foe withdrew Fearow.
+The foe took out Jolteon
+Your Kabuto used Rock Tomb!
+Jolteon was hit for 90(33%), 181 left
+The foe's Jolteon's Speed fell
+
+You withdrew Kabuto.
+You took out Sandslash
+The foe's Jolteon used Thunderbolt!
+It dosen't affect Your Sandslash...
+
+The foe withdrew Jolteon.
+The foe took out Lapras
+Your Sandslash used Earthquake!
+Lapras was hit for 156(39%), 32 left
+
+You withdrew Sandslash.
+You took out Machamp
+The foe's Lapras used Ice Beam!
+Machamp was hit for 116(36%), 91 left
+
+The foe withdrew Lapras.
+The foe took out Jynx
+Your Machamp is frozen solid!
+
+You withdrew Machamp.
+You took out Pinsir
+The foe's Jynx used Psychic!
+Pinsir was hit for 168(62%), 103 left
+
+The foe withdrew Jynx.
+The foe took out Zubat
+Your Pinsir used Storm Throw!
+It's a critical hit!
+It's not very effective...
+Zubat was hit for 50(23%), 115 left
+
+You withdrew Pinsir.
+You took out Raichu
+The foe's Zubat used Acrobatics!
+It's not very effective...
+Raichu was hit for 61(23%), 140 left
+Raichu was hurt 33 by its burn!
+
+The foe withdrew Zubat.
+The foe took out Marowak
+Your Raichu used Volt Tackle!
+It dosen't affect The foe's Marowak...
+Raichu was hurt 33 by its burn!
+Marowak was hurt 33 by poison!
+
+You withdrew Raichu.
+You took out Oddish
+The foe's Marowak used Earthquake!
+Oddish was hit for 157(68%), 33 left
+Marowak was hurt 33 by poison!
+
+The foe withdrew Marowak.
+The foe took out Zubat
+Your Oddish used Giga Drain!
+It's not very effective...
+Zubat was hit for 38(17%), 77 left
+
+You withdrew Oddish.
+You took out Kabuto
+The foe's Zubat used Acrobatics!
+It's not very effective...
+Kabuto was hit for 39(19%), 31 left
+
+The foe withdrew Zubat.
+The foe took out Exeggutor
+Your Kabuto used Rock Tomb!
+Exeggutor was hit for 68(21%), 142 left
+The foe's Exeggutor's Speed fell
+
+You withdrew Kabuto.
+You took out Rapidash
+The foe's Exeggutor used Ancient Power!
+It's super effective!
+Rapidash was hit for 153(56%), 118 left
+
+The foe withdrew Exeggutor.
+The foe took out Kingler
+Your Rapidash used Megahorn!
+Kingler was hit for 85(34%), 0 left
+The foe's Kingler fainted!
+The foe took out Nidoqueen
+
+You withdrew Rapidash.
+You took out Sandslash
+The foe's Nidoqueen used Poison Jab!
+It's not very effective...
+Sandslash was hit for 41(14%), 107 left
+
+The foe withdrew Nidoqueen.
+The foe took out Lapras
+Your Sandslash used Earthquake!
+Lapras was hit for 146(36%), 0 left
+The foe's Lapras fainted!
+The foe took out Psyduck
+
+You withdrew Sandslash.
+You took out Oddish
+The foe's Psyduck used Scald!
+It's not very effective...
+Oddish was hit for 48(21%), 4 left
+Your Oddish was burned!
+Oddish was hurt 29 by its burn!
+
+The foe withdrew Psyduck.
+The foe took out Growlithe
+Your Oddish used Giga Drain!
+It's not very effective...
+Growlithe was hit for 68(27%), 92 left
+Oddish was hurt 29 by its burn!
+
+You withdrew Oddish.
+You took out Sandslash
+The foe's Growlithe used Wild Charge!
+It dosen't affect Your Sandslash...
+
+The foe withdrew Growlithe.
+The foe took out Exeggutor
+Your Sandslash used Poison Jab!
+It's super effective!
+Exeggutor was hit for 151(46%), 0 left
+The foe's Exeggutor fainted!
+The foe took out Psyduck
+The foe's Exeggutor was poisoned!
+
+You withdrew Sandslash.
+You took out Raichu
+The foe's Psyduck used Scald!
+Raichu was hit for 89(34%), 51 left
+Your Raichu was burned!
+Raichu was hurt 33 by its burn!
+
+The foe withdrew Psyduck.
+The foe took out Marowak
+Your Raichu used Grass Knot!
+It's super effective!
+Marowak was hit for 119(46%), 0 left
+The foe's Marowak fainted!
+The foe took out Nidoqueen
+Raichu was hurt 33 by its burn!
+
+You withdrew Raichu.
+You took out Staryu
+The foe's Nidoqueen used Crunch!
+Staryu was hit for 99(49%), 102 left
+
+The foe withdrew Nidoqueen.
+The foe took out Jolteon
+Your Staryu used Scald!
+Jolteon was hit for 76(28%), 105 left
+The foe's Jolteon was burned!
+Jolteon was hurt 34 by its burn!
+
+You withdrew Staryu.
+You took out Sandslash
+The foe's Jolteon used Thunderbolt!
+It dosen't affect Your Sandslash...
+Jolteon was hurt 34 by its burn!
+
+The foe withdrew Jolteon.
+The foe took out Psyduck
+Your Sandslash used Earthquake!
+Psyduck was hit for 232(96%), 9 left
+
+You withdrew Sandslash.
+You took out Raichu
+The foe's Psyduck used Scald!
+It's a critical hit!
+Raichu was hit for 133(51%), 0 left
+Your Raichu fainted!
+You took out Venusaur
+
+The foe withdrew Psyduck.
+The foe took out Jynx
+Your Venusaur used Sludge Bomb!
+Jynx was hit for 120(44%), 0 left
+The foe's Jynx fainted!
+The foe took out Growlithe
+Venusaur was hurt 38 by its burn!
+
+You withdrew Venusaur.
+You took out Horsea
+The foe's Growlithe used Flare Blitz!
+It's not very effective...
+Horsea was hit for 40(20%), 0 left
+Your Horsea fainted!
+You took out Kabuto
+Growlithe was hurt 13 by recoil!
+
+The foe withdrew Growlithe.
+The foe took out Jolteon
+Your Kabuto used Rock Tomb!
+Jolteon was hit for 91(34%), 14 left
+The foe's Jolteon's Speed fell
+Jolteon was hurt 34 by its burn!
+
+You withdrew Kabuto.
+You took out Sandslash
+The foe's Jolteon used Pin Missile!
+Sandslash was hit for 10(3%), 97 left
+Sandslash was hit for 10(3%), 87 left
+Jolteon was hurt 34 by its burn!
+
+The foe withdrew Jolteon.
+The foe took out Psyduck
+Your Sandslash used Earthquake!
+Psyduck was hit for 223(93%), 0 left
+The foe's Psyduck fainted!
+The foe took out Shellder
+
+You withdrew Sandslash.
+You took out Venusaur
+The foe's Shellder used Razor Shell!
+It's not very effective...
+Venusaur was hit for 39(13%), 161 left
+Your Venusaur's Defense fell
+Venusaur was hurt 38 by its burn!
+
+The foe withdrew Shellder.
+The foe took out Growlithe
+Your Venusaur used Giga Drain!
+It's not very effective...
+Growlithe was hit for 82(33%), 0 left
+The foe's Growlithe fainted!
+The foe took out Zubat
+Venusaur was hurt 38 by its burn!
+
+You withdrew Venusaur.
+You took out Kabuto
+The foe's Zubat used Acrobatics!
+It's not very effective...
+Kabuto was hit for 42(21%), 0 left
+Your Kabuto fainted!
+You took out Kangaskhan
+
+Your Kangaskhan used Rock Slide!
+It's super effective!
+Zubat was hit for 272(123%), 0 left
+The foe's Zubat fainted!
+The foe took out Nidoran♀
+
+Your Kangaskhan used Earthquake!
+It's super effective!
+Nidoran♀ was hit for 266(106%), 0 left
+The foe's Nidoran♀ fainted!
+The foe took out Golem
+
+Your Kangaskhan used Hammer Arm!
+It's super effective!
+Golem was hit for 129(43%), 149 left
+Your Kangaskhan's Speed rose
+The foe's Golem used Hammer Arm!
+It's a critical hit!
+It's super effective!
+Kangaskhan was hit for 372(106%), 0 left
+Your Kangaskhan fainted!
+You took out Machop
+The foe's Golem's Speed rose
+
+The foe withdrew Golem.
+The foe took out Fearow
+Your Machop used Cross Chop!
+Fearow was hit for 151(56%), 0 left
+The foe's Fearow fainted!
+The foe took out Wigglytuff
+
+You withdrew Machop.
+You took out Nidorino
+The foe's Wigglytuff used Psychic!
+It's super effective!
+Nidorino was hit for 218(83%), 45 left
+
+The foe withdrew Wigglytuff.
+The foe took out Golem
+Your Nidorino used Poison Jab!
+It's a critical hit!
+It's not very effective...
+Golem was hit for 25(8%), 124 left
+The foe's Golem was poisoned!
+Golem was hurt 38 by poison!
+
+You withdrew Nidorino.
+You took out Venusaur
+The foe's Golem used Hammer Arm!
+It's not very effective...
+Venusaur was hit for 58(19%), 144 left
+The foe's Golem's Speed rose
+Venusaur was hurt 38 by its burn!
+Golem was hurt 38 by poison!
+
+The foe withdrew Golem.
+The foe took out Dragonite
+Your Venusaur used Giga Drain!
+It's not very effective...
+Dragonite was hit for 23(7%), 146 left
+Venusaur was hurt 38 by its burn!
+
+You withdrew Venusaur.
+You took out Clefable
+The foe's Dragonite used Earthquake!
+Clefable was hit for 140(42%), 0 left
+Your Clefable fainted!
+You took out Jigglypuff
+
+The foe withdrew Dragonite.
+The foe took out Venonat
+Your Jigglypuff used Dazzling Gleam!
+It's not very effective...
+Venonat was hit for 44(17%), 217 left
+
+You withdrew Jigglypuff.
+You took out Gyarados
+The foe's Venonat used Sludge Bomb!
+Gyarados was hit for 53(16%), 187 left
+
+The foe withdrew Venonat.
+The foe took out Raichu
+Your Gyarados used Waterfall!
+Raichu was hit for 197(75%), 0 left
+The foe's Raichu fainted!
+The foe took out Jolteon
+Jolteon was hurt 34 by its burn!
+
+You withdrew Gyarados.
+You took out Sandshrew
+The foe's Jolteon used Thunderbolt!
+It dosen't affect Your Sandshrew...
+Jolteon was hurt 34 by its burn!
+
+The foe withdrew Jolteon.
+The foe took out Poliwag
+Your Sandshrew used Earthquake!
+Poliwag was hit for 185(84%), 36 left
+
+You withdrew Sandshrew.
+You took out Venusaur
+The foe's Poliwag used Body Slam!
+It's a critical hit!
+Venusaur was hit for 77(26%), 79 left
+Venusaur was hurt 38 by its burn!
+
+The foe withdrew Poliwag.
+The foe took out Vulpix
+Your Venusaur used Sludge Bomb!
+Vulpix was hit for 148(68%), 69 left
+The foe's Vulpix was poisoned!
+Venusaur was hurt 38 by its burn!
+Vulpix was hurt 27 by poison!
+
+You withdrew Venusaur.
+You took out Staryu
+The foe's Vulpix used Extrasensory!
+Staryu was hit for 66(33%), 36 left
+Vulpix was hurt 27 by poison!
+
+The foe withdrew Vulpix.
+The foe took out Jolteon
+Your Staryu used Scald!
+Jolteon was hit for 81(30%), 0 left
+The foe's Jolteon fainted!
+The foe took out Ditto
+
+Your Staryu used Scald!
+Ditto was hit for 144(61%), 93 left
+
+Your Staryu used Scald!
+Ditto was hit for 133(56%), 0 left
+The foe's Ditto fainted!
+The foe took out Meowth
+The foe's Ditto was burned!
+
+The foe's Meowth used Dark Pulse!
+Staryu was hit for 53(26%), 0 left
+Your Staryu fainted!
+You took out Machop
+
+The foe withdrew Meowth.
+The foe took out Clefable
+Your Machop used Cross Chop!
+It's not very effective...
+Clefable was hit for 63(19%), 119 left
+
+You withdrew Machop.
+You took out Oddish
+The foe's Clefable used Moonblast!
+It's not very effective...
+Oddish was hit for 77(33%), 0 left
+Your Oddish fainted!
+You took out Nidorino
+
+The foe withdrew Clefable.
+The foe took out Golem
+Your Nidorino used Poison Jab!
+It's not very effective...
+Golem was hit for 16(5%), 32 left
+The foe's Golem was poisoned!
+Golem was hurt 38 by poison!
+The foe's Golem fainted!
+The foe took out Nidoqueen
+
+You withdrew Nidorino.
+You took out Sandshrew
+The foe's Nidoqueen used Crunch!
+Sandshrew was hit for 75(31%), 0 left
+Your Sandshrew fainted!
+You took out Gyarados
+
+The foe withdrew Nidoqueen.
+The foe took out Wigglytuff
+Your Gyarados used Waterfall!
+It's a critical hit!
+Wigglytuff was hit for 354(84%), 67 left
+
+Your Gyarados used Waterfall!
+Wigglytuff was hit for 218(52%), 0 left
+The foe's Wigglytuff fainted!
+The foe took out Nidoran♂
+
+Your Gyarados used Waterfall!
+Nidoran♂ was hit for 225(97%), 8 left
+The foe's Nidoran♂ used Poison Jab!
+It's a critical hit!
+Gyarados was hit for 115(35%), 72 left
+
+Your Gyarados used Waterfall!
+Nidoran♂ was hit for 231(99%), 0 left
+The foe's Nidoran♂ fainted!
+The foe took out Poliwag
+
+The foe's Poliwag used Body Slam!
+Gyarados was hit for 48(15%), 24 left
+Your Gyarados used Waterfall!
+It's not very effective...
+Poliwag was hit for 132(60%), 0 left
+The foe's Poliwag fainted!
+The foe took out Mr. Mime
+
+The foe's Mr. Mime used Shadow Ball!
+Gyarados was hit for 68(21%), 0 left
+Your Gyarados fainted!
+You took out Koffing
+
+You withdrew Koffing.
+You took out Golbat
+The foe withdrew Mr. Mime.
+The foe took out Nidoqueen
+
+Your Golbat used Acrobatics!
+Nidoqueen was hit for 137(43%), 113 left
+The foe's Nidoqueen used Crunch!
+Golbat was hit for 83(29%), 208 left
+Your Golbat's Defense fell
+
+Your Golbat used Acrobatics!
+Nidoqueen was hit for 135(42%), 0 left
+The foe's Nidoqueen fainted!
+The foe took out Ekans
+
+Your Golbat used Acrobatics!
+Ekans was hit for 227(108%), 0 left
+The foe's Ekans fainted!
+The foe took out Dragonite
+
+Your Golbat used Acrobatics!
+Dragonite was hit for 121(37%), 25 left
+The foe's Dragonite used Dragon Rush!
+Golbat was hit for 272(93%), 0 left
+Your Golbat fainted!
+You took out Jigglypuff
+
+The foe withdrew Dragonite.
+The foe took out Venonat
+Your Jigglypuff used Psychic!
+It's super effective!
+Venonat was hit for 124(48%), 93 left
+
+You withdrew Jigglypuff.
+You took out Dodrio
+The foe's Venonat used Sludge Bomb!
+Dodrio was hit for 80(31%), 69 left
+
+The foe withdrew Venonat.
+The foe took out Shellder
+Your Dodrio used Facade!
+Shellder was hit for 96(48%), 105 left
+
+Your Dodrio used Facade!
+Shellder was hit for 98(49%), 7 left
+The foe's Shellder used Icicle Spear!
+It's super effective!
+Dodrio was hit for 42(16%), 27 left
+It's a critical hit!
+It's super effective!
+Dodrio was hit for 68(26%), 0 left
+Your Dodrio fainted!
+You took out Exeggcute
+
+The foe withdrew Shellder.
+The foe took out Dragonite
+Your Exeggcute used Ancient Power!
+It's super effective!
+Dragonite was hit for 66(20%), 0 left
+The foe's Dragonite fainted!
+The foe took out Vulpix
+Vulpix was hurt 27 by poison!
+The foe's Vulpix fainted!
+The foe took out Meowth
+
+The foe's Meowth used Dark Pulse!
+It's super effective!
+Exeggcute was hit for 120(46%), 0 left
+Your Exeggcute fainted!
+You took out Machamp
+
+The foe withdrew Meowth.
+The foe took out Mr. Mime
+Your Machamp is frozen solid!
+
+You withdrew Machamp.
+You took out Koffing
+The foe's Mr. Mime used Psychic!
+It's super effective!
+Koffing was hit for 392(177%), 0 left
+Your Koffing fainted!
+You took out Nidorino
+
+You withdrew Nidorino.
+You took out Venonat
+The foe withdrew Mr. Mime.
+The foe took out Lickitung
+
+Your Venonat used Sludge Bomb!
+Lickitung was hit for 72(22%), 249 left
+The foe's Lickitung was poisoned!
+The foe's Lickitung used Fire Blast!
+The foe's Lickitung's attack missed
+Lickitung was hurt 40 by poison!
+
+Your Venonat used Sludge Bomb!
+Lickitung was hit for 74(23%), 135 left
+The foe's Lickitung used Fire Blast!
+It's super effective!
+Venonat was hit for 202(77%), 59 left
+Lickitung was hurt 40 by poison!
+
+Your Venonat used Sludge Bomb!
+Lickitung was hit for 74(23%), 21 left
+The foe's Lickitung used Body Slam!
+Venonat was hit for 111(43%), 0 left
+Your Venonat fainted!
+You took out Machop
+Lickitung was hurt 40 by poison!
+The foe's Lickitung fainted!
+The foe took out Mr. Mime
+
+You withdrew Machop.
+You took out Lickitung
+The foe's Mr. Mime used Shadow Ball!
+It dosen't affect Your Lickitung...
+
+The foe's Mr. Mime used Focus Blast!
+The foe's Mr. Mime's attack missed
+Your Lickitung used Body Slam!
+Mr. Mime was hit for 91(41%), 130 left
+
+The foe's Mr. Mime used Focus Blast!
+It's a critical hit!
+It's super effective!
+Lickitung was hit for 388(121%), 0 left
+Your Lickitung fainted!
+You took out Arbok
+
+You withdrew Arbok.
+You took out Jigglypuff
+The foe withdrew Mr. Mime.
+The foe took out Venonat
+
+You withdrew Jigglypuff.
+You took out Ninetales
+The foe's Venonat used Sludge Bomb!
+Ninetales was hit for 56(20%), 104 left
+
+The foe withdrew Venonat.
+The foe took out Shellder
+Your Ninetales used Dark Pulse!
+It's a critical hit!
+Shellder was hit for 237(118%), 0 left
+The foe's Shellder fainted!
+The foe took out Mr. Mime
+
+Your Ninetales used Flare Blitz!
+Mr. Mime was hit for 165(75%), 0 left
+The foe's Mr. Mime fainted!
+The foe took out Clefable
+Ninetales was hurt 55 by recoil!
+
+Your Ninetales used Energy Ball!
+Clefable was hit for 68(21%), 51 left
+The foe's Clefable used Moonblast!
+It's not very effective...
+Ninetales was hit for 54(19%), 0 left
+Your Ninetales fainted!
+You took out Venusaur
+
+The foe withdrew Clefable.
+The foe took out Eevee
+Your Venusaur used Sludge Bomb!
+Eevee was hit for 167(67%), 84 left
+The foe's Eevee was poisoned!
+Venusaur was hurt 38 by its burn!
+Eevee was hurt 31 by poison!
+
+Your Venusaur used Giga Drain!
+Eevee was hit for 139(55%), 0 left
+The foe's Eevee fainted!
+The foe took out Beedrill
+Venusaur was hurt 38 by its burn!
+
+Your Venusaur used Double-Edge!
+Beedrill was hit for 98(36%), 54 left
+Venusaur was hurt 33 by recoil!
+The foe's Beedrill used Acrobatics!
+It's super effective!
+Venusaur was hit for 202(67%), 0 left
+Your Venusaur fainted!
+You took out Rapidash
+
+The foe withdrew Beedrill.
+The foe took out Clefable
+Your Rapidash used Flare Blitz!
+Clefable was hit for 207(63%), 0 left
+The foe's Clefable fainted!
+The foe took out Meowth
+Rapidash was hurt 69 by recoil!
+
+Your Rapidash used Megahorn!
+Meowth was hit for 234(106%), 0 left
+The foe's Meowth fainted!
+The foe took out Venonat
+
+Your Rapidash used Megahorn!
+It's not very effective...
+Venonat was hit for 91(35%), 2 left
+The foe's Venonat used Sludge Bomb!
+It's a critical hit!
+Rapidash was hit for 101(37%), 0 left
+Your Rapidash fainted!
+You took out Grimer
+
+The foe's Venonat used Thief!
+Grimer was hit for 55(18%), 163 left
+Your Grimer used Rock Tomb!
+It's super effective!
+Venonat was hit for 150(57%), 0 left
+The foe's Venonat fainted!
+The foe took out Beedrill
+
+The foe's Beedrill used Acrobatics!
+Grimer was hit for 149(50%), 14 left
+Your Grimer used Rock Tomb!
+It's super effective!
+Beedrill was hit for 159(59%), 0 left
+The foe's Beedrill fainted!
+
+You defeated The foe!
+Ditto: 0 HP (0%) left.
+Rapidash: 0 HP (0%) left.
+Alakazam: 0 HP (0%) left.
+Blastoise: 83 HP (28%) left.
+Tangela: 210 HP (77%) left.
+Raichu: 0 HP (0%) left.
+Hypno: 0 HP (0%) left.
+Grimer: 14 HP (5%) left.
+Voltorb: 0 HP (0%) left.
+Venonat: 0 HP (0%) left.
+Caterpie: 135 HP (58%) left.
+Persian: 0 HP (0%) left.
+Tauros: 291 HP (100%) left.
+Paras: 0 HP (0%) left.
+Venusaur: 0 HP (0%) left.
+Haunter: 0 HP (0%) left.
+Sandslash: 87 HP (30%) left.
+Golbat: 0 HP (0%) left.
+Growlithe: 0 HP (0%) left.
+Sandshrew: 0 HP (0%) left.
+Nidorino: 45 HP (17%) left.
+Exeggcute: 0 HP (0%) left.
+Mew: 0 HP (0%) left.
+Horsea: 0 HP (0%) left.
+Lapras: 0 HP (0%) left.
+Kangaskhan: 0 HP (0%) left.
+Jigglypuff: 371 HP (100%) left.
+Dugtrio: 0 HP (0%) left.
+Gyarados: 0 HP (0%) left.
+Onix: 0 HP (0%) left.
+Pikachu: 0 HP (0%) left.
+Machop: 30 HP (11%) left.
+Eevee: 251 HP (100%) left.
+Staryu: 0 HP (0%) left.
+Ninetales: 0 HP (0%) left.
+Dodrio: 0 HP (0%) left.
+Charmeleon: 0 HP (0%) left.
+Oddish: 0 HP (0%) left.
+Koffing: 0 HP (0%) left.
+Bellsprout: 0 HP (0%) left.
+Nidoran♂: 129 HP (55%) left.
+Pinsir: 103 HP (38%) left.
+Lickitung: 0 HP (0%) left.
+Abra: 0 HP (0%) left.
+Machamp: 91 HP (28%) left.
+Magnemite: 0 HP (0%) left.
+Clefable: 0 HP (0%) left.
+Omastar: 0 HP (0%) left.
+Arbok: 261 HP (100%) left.
+Kabuto: 0 HP (0%) left.
